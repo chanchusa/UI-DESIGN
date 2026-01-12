@@ -100,8 +100,7 @@ body {
     display: flex;
     align-items: center;
     margin-top: 15px;
-   margin-right: 90px;
-   gap: 15px;
+    gap: 15px;
 
 }
 
@@ -114,11 +113,21 @@ body {
     color: #fff;
     font-size: 18px;
     height: 36px;
-    width: 80px;
-    margin-
+    width: 36px;
     background-color: #4070f4;
     border-radius: 50%;
     text-decoration: none;
 
+
+}
+
+.profile-card .buttons {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 25px;
+
+}
+.button{
 
 }
